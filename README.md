@@ -30,7 +30,4 @@
   <h3>Pode ver o que eu faço aqui:</h3>
   <p>Linkedin</p>
   <p><a href="https://www.linkedin.com/in/matheus-zambon/" target="_blank"><img width="40px" height="40px" src="https://user-images.githubusercontent.com/98175349/160178516-7885bad4-7b64-49ed-9bb3-6abfd36fce34.png"/></a></p>
-  <p>Portfólio</p>
-  <p><a href="https://matheusvzambon.github.io/PortfolioPessoal/" target="_blank"><img width="40px" height="40px" src="https://user-images.githubusercontent.com/98175349/160179662-a6272776-8b67-4405-b26e-0d436dc18dc0.png"/></a></p>
-  <p>⬅ E aqui na esquerda estão meus contatos e repositórios recentes</p>
 </div>
