@@ -13,21 +13,24 @@
 </div>
 <div>
 <hr>
-  <h3>Linguagens e Ferramentas que tenho conhecimento</h3>
+  <h3>Skills :</h3>
   <p>
-    <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
-    <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-    <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+    <img width="140px" height="30px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img width="100px" height="30px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img width="90px" height="30px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   </p>
 </div>
 <hr>
 <div>
-  <h3>Minhas Estatísticas no GitHub:</h3>
-  <img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api?username=matheusvzambon&theme=tokyonight&show_icons=true"/>
-  <img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusvzambon&theme=tokyonight&layout=compact"/>
+  <h3>GitHub Stats :</h3>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats-matheusvzambon.vercel.app/api?username=MatheusVZambon&show_icons=true&theme=cobalt" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats-matheusvzambon.vercel.app/api/top-langs/?username=MatheusVZambon&layout=compact&theme=cobalt" />
+  </a>
 </div>
 <div>
-  <h3>Pode ver o que eu faço aqui:</h3>
-  <p>Linkedin</p>
-  <p><a href="https://www.linkedin.com/in/matheus-zambon/" target="_blank"><img width="40px" height="40px" src="https://user-images.githubusercontent.com/98175349/160178516-7885bad4-7b64-49ed-9bb3-6abfd36fce34.png"/></a></p>
+  <h3>Pode ver o que eu faço aqui :</h3>
+  <p><a href="https://www.linkedin.com/in/matheus-zambon/" target="_blank"><img width="120px" height="30px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
 </div>
