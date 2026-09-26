@@ -3,22 +3,22 @@
 </head>
 
 <div>
-  <h2>👋 Olá, seja bem-vindo ao meu perfil, aceita um ☕?</h2>
+  <h2>👋 Olá, seja bem-vindo ao meu perfil</h2>
 </div>
 <div>
-  <h3>Atualmente estou...</h3>
-  <p>👨‍💻 Estudando tecnologias Front-End;</p>
-  <p>💼 Aberto a oportunidades no mercado de trabalho;</p>
-  <p>🌱 Me desenvolvendo como programador a cada dia que passa!</p>
+  <h3>Um breve resumo:</h3>
+  <p>- Mais de 2 anos atuando na área como suporte técnico N1/N2;</p>
+  <p>- Graduando em Ciências da Computação (atualmente no 6º semestre);</p>
+  <p>- Buscando a 1ª oportunidade na área de dados, como cientista e/ou analista.</p>
 </div>
 <div>
 <hr>
-  <h3>Skills :</h3>
-  <p>
-    <img height="40px" alt="Static Badge" src="https://img.shields.io/badge/CSS-blue?style=flat&logo=CSS3&logoColor=white">
-    <img height="40px" alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-black?style=flat&logo=javascript&logoColor=yellow">
-    <img height="40px" alt="Static Badge" src="https://img.shields.io/badge/SASS-red?style=flat&logo=Sass&logoColor=white">
-  </p>
+  <h3>Habilidades principais:</h3>
+  <p>- Manutenção de hardware/software;</p>
+  <p>- Linguagem python voltada para dados;</p>
+  <p>- Excel, Power BI e Tableau para manuseio, exibição, filtro e coleta de dados;</p>
+  <p>- Inglês de nível intermediário | Espanhol de nível básico;</p>
+  <p>- Vontade de aprender, paciente e proativo.</p>
 </div>
 <hr>
 <div>
